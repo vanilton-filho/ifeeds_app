@@ -8,7 +8,7 @@ Esse app foi desenvolvido para a disciplina de PDM (Programação para Dispositi
 
 ## Características
 
-- É um App captador de dados.
+- É um app captador de dados.
 - Voltado para o IFS.
 - Fornecerá à comunidade acadêmica a possibilidade de reportar e dar feedbacks.
 - Pode atualizar sua avaliação a qualquer momento.
@@ -18,4 +18,5 @@ Esse app foi desenvolvido para a disciplina de PDM (Programação para Dispositi
 ## Desenvolvedores
 
 [Kaiki Mello](https://github.com/kaikimello)
+
 [vanilton filho](https://github.com/vanilton-filho)
