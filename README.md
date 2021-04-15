@@ -14,3 +14,8 @@ Esse app foi desenvolvido para a disciplina de PDM (Programação para Dispositi
 - Pode atualizar sua avaliação a qualquer momento.
 - Transparente, simples e prático.
 - Tecnologias utilizadas: Flutter e Firebase.
+
+## Desenvolvedores
+
+[Kaiki Mello](https://github.com/kaikimello)
+[vanilton filho](https://github.com/vanilton-filho)
